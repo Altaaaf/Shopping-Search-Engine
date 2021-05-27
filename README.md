@@ -55,7 +55,7 @@ nodemon Server.js
 | :--- | :--- | :--- |
 | /Api/RetrieveDocuments | GET | Retrieve all existing products from database |
 | /Api/BooleanRetrievalQuery | POST | Executes Boolean Retrieval Model based on a search query |
-| /Api/VectorSpaceModelQuery | POST | Executes Vector Space model based on a search query  |
+| /Api/VectorSpaceModelQuery | POST | Executes Vector Space Model based on a search query  |
 | /Api/Insert | POST | Insert a product into database if and only if there is no similar product to the one being inserted, which is validated using dices coefficient  |
 
 <br>
