@@ -46,7 +46,7 @@ npm start
 > Starting Front end, open a new terminal in visual studio code
 ```
 cd server
-nodemon server.js
+nodemon Server.js
 ```
 
 ## API
