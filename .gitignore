@@ -1,0 +1,7 @@
+/client/node_modules
+/client/package-lock.json
+/client/package.json
+/server/node_modules
+/server/.env
+/server/__pycache__
+/server/package-lock.json
