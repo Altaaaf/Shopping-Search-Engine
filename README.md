@@ -1,5 +1,5 @@
 # Shopping-Filtering-System
-A search engine for shopping websites using different information retrieval models and algorithms
+A search engine for shopping websites using different information retrieval models and algorithms.
 
 ---
 
@@ -26,6 +26,9 @@ This model represents both search queries and documents as vectors of weights. T
 
 
 ## Get Started
+
+> Simply web scrape products from online stores and use the /Api/Insert route to store the product in data base. 
+> The main source of products for this product were scraped from the website https://www.etsy.com/. An example of how the web scraping was done can be found in /server/Scraper.py
 
 Prerequisites:
 
